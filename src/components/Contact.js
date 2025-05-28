@@ -34,8 +34,8 @@ export default function Contact() {
       // Note: In a real implementation, you would replace these with your actual EmailJS credentials
       // This is just a placeholder for demonstration purposes
       await send(
-        'YOUR_SERVICE_ID',
-        'YOUR_TEMPLATE_ID',
+        'service_n6m9yu4',
+        'template_9k87rw7',
         formData,
         'YOUR_USER_ID'
       )
